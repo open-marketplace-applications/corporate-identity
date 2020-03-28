@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='' border='0' width='300' alt='logo-outline-light'/>
+  <img src='https://raw.githubusercontent.com/oma-shop/corporate-identity/master/CI-dark.png' border='0' width='300' alt='logo-outline-light'/>
 </p>
 
 # Corporate Identity
