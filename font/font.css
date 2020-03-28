@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+span, p, blockquote, ul, ol, {
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, a, button {
+  font-weight: 800;
+}
